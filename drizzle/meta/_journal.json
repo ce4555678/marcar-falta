@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1762037221551,
+      "tag": "0000_opposite_plazm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1762042615051,
+      "tag": "0001_numerous_maximus",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1762048750916,
+      "tag": "0002_modern_jane_foster",
+      "breakpoints": true
+    }
+  ]
+}
